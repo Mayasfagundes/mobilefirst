@@ -29,12 +29,12 @@ hr {
         display: flex;
         align-items: center;
         margin: 1.5em -0.5em;
+
     }
 
     .lista-rodapé__link {
         color: var(--cinza);
         text-decoration: none;
-        margin-left: 1.5em 0;
     }
 
     .lista-rodapé__titulo {
@@ -58,4 +58,7 @@ hr {
     .rodapé{
         padding: 3em 0;
     }
+
+
+
 }
